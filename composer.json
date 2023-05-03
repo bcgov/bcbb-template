@@ -12,10 +12,15 @@
         {
             "type": "vcs",
             "url": "https://github.com/bcgov/bcbb"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/bcgov/bcbb-theme"
         }
     ],
     "require": {
         "bcgov/bcbb": "1.0.x-dev",
+        "bcgov/bcbb_theme": "1.0.x-dev",
         "composer/installers": "^2.0",
         "drupal/core-composer-scaffold": "^10.1",
         "drupal/core-recommended": "^10.1"
