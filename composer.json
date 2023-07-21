@@ -74,5 +74,9 @@
                 "type:drupal-custom-theme"
             ]
         }
+    },
+    "require-dev": {
+        "drupal/core-dev": "^10.1",
+        "kint-php/kint": "^5.0"
     }
 }
