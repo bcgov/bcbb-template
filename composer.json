@@ -41,6 +41,9 @@
     },
     "extra": {
         "drupal-scaffold": {
+            "file-mapping": {
+                "[web-root]/robots.txt": false
+            },
             "locations": {
                 "web-root": "html/"
             }
